@@ -1,4 +1,4 @@
-## Olá, eu sou o Kaio, desenvolvedor web e criadora de conteúdo de programação.
+## Olá, eu sou o Kaio, desenvolvedor web e criador de conteúdo de programação.
 
 <div align="center" >
   <a href="https://github.com/Arcanodev">
