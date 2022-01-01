@@ -1,4 +1,4 @@
-## Olá, eu sou o Kaio desenvolvedor Front-end e criador de conteúdo de programação.
+## Olá, eu sou o Kaio desenvolvedor Front-end.
 
 <div align="center" >
   <a href="https://github.com/kaiolabs">
