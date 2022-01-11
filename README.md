@@ -1,4 +1,4 @@
-## Olá seja bem-vindo(a), eu sou o Kaio desenvolvedor Front-end 🙂
+<div align="center" > <h2> Olá seja bem-vindo(a), eu sou o Kaio desenvolvedor Front-end 😉 </h2></div>
 
 <div align="center" >
   <a href="https://github.com/kaiolabs">
