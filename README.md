@@ -19,7 +19,7 @@
 
 <br>
 
-## ✉️ *Contato*
+# ✉️ *Contato*
 
 <br>
 
@@ -31,7 +31,7 @@
 
 <br>
 
-## </> *Estudandos*
+# </> *Estudandos*
 
 <br>
 
