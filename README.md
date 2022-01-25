@@ -45,7 +45,6 @@
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=for-the-badge&logo=Node.js)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 <br>
 <br>
