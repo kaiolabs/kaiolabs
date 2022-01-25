@@ -57,8 +57,8 @@
 
 <div align="center" >
   <a href="https://github.com/kaiolabs">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=kaiolabs&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaiolabs&layout=compact&langs_count=7&theme=dark "/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=kaiolabs&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaiolabs&layout=compact&langs_count=7&theme=dark "/>
 </div>
   
 <br>
