@@ -3,7 +3,7 @@
 <br>
 
 > #### Olá seja bem-vindo(a) <br><br> Eu me chamo Kaio <br>
-> #### Sou desenvolvedor Front-end júnior. <br>
+> #### Sou desenvolvedor Flutter | Front-end. <br>
 > #### Estou fazendo engenharia da computação atualmente. <br>
 > #### Aqui você encontra projetos desenvolvidos durante minha jornada de estudo! <br>
 > #### Apaixonado por resolver problemas e ajudar as pessoas! Sempre em busca de mais conhecimento e aprimorando cada dia mais as minhas bases, busco sempre ajudar e ensinar outras pessoas para mim fazer isso é a melhor maneira de evoluir cada vez mais.
