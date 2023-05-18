@@ -35,7 +35,7 @@ If you are interested in working on a mobile development project with Flutter, p
 
 <h2 align="center"> 📈 My metrics on Github 📉 </h2>
 <p align="center">
-  <a href="https://github.com/devtvas">
+  <a href="https://github.com/kaiolabs">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaiolabs&theme=dracula&card_width=500&langs_count=10&custom_title=KAIOLABS" />
   </a>
 </p>
